@@ -20,7 +20,7 @@ public class bincoeff {
     }
 
     public static void main(String[] args){
-        System.out.println(bin(5,2));
+        System.out.println(bin(7,2));
 
     }
 }
