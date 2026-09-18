@@ -6,6 +6,7 @@ public class inputoutputinString {
         Scanner sc = new Scanner(System.in);
         String name = sc.nextLine();
         System.out.println(name);
+        System.out.println(name.length());
     }
 }
 
